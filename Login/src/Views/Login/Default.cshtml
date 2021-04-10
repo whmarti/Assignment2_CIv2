@@ -1,0 +1,42 @@
+﻿@model LoginWebApp.Models.Login
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutCI.cshtml";
+}
+
+<h1>System Access</h1>
+
+<h4>Login</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pass" class="control-label"></label>
+                <input asp-for="Pass" type="password" class="form-control" />
+                <span asp-validation-for="Pass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeL" class="control-label"></label>&nbsp&nbsp
+                <input type="radio" checked asp-for="TypeL" value="Student" id="TypeL" />Student&nbsp&nbsp
+                <input type="radio" asp-for="TypeL" value="Teacher" id="TypeL" />Teacher<br />
+
+                <span asp-validation-for="TypeL" class="text-danger"></span>
+                <span asp-validation-for="TypeL" class="text-danger" id="res">@ViewData["res"]</span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

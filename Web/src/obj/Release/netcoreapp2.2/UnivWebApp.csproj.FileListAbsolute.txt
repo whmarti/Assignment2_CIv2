@@ -1,0 +1,129 @@
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.deps.json
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.runtimeconfig.json
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.runtimeconfig.dev.json
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.dll
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.pdb
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.Views.dll
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\LoginWebApp.Views.pdb
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csproj.CoreCompileInputs.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.AssemblyInfoInputs.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.AssemblyInfo.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\LoginWebApp.TagHelpers.input.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\LoginWebApp.TagHelpers.output.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorCoreGenerate.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutCI.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Default.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Create.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Default.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Delete.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Details.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Edit.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Index.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorTargetAssemblyInfo.cache
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorTargetAssemblyInfo.cs
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\LoginWebApp.Views.pdb
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\LoginWebApp.dll
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\LoginWebApp.pdb
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csproj.CopyComplete
+C:\Will\Code_Will\2021\Propios\NetCore\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csprojAssemblyReference.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.deps.json
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.runtimeconfig.json
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.runtimeconfig.dev.json
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.dll
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.pdb
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.Views.dll
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.Views.pdb
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csprojAssemblyReference.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csproj.CoreCompileInputs.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.AssemblyInfoInputs.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.AssemblyInfo.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.TagHelpers.input.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.TagHelpers.output.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorCoreGenerate.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutCI.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Default.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Create.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Default.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Delete.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Details.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Edit.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Index.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorTargetAssemblyInfo.cache
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorTargetAssemblyInfo.cs
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.Views.pdb
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.dll
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.pdb
+C:\Will\Temp\CI\CI_AIS\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csproj.CopyComplete
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.deps.json
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.runtimeconfig.json
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.runtimeconfig.dev.json
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.dll
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.pdb
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.Views.dll
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\bin\Release\netcoreapp2.2\UniWebWebApp.Views.pdb
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csprojAssemblyReference.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csproj.CoreCompileInputs.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.AssemblyInfoInputs.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.AssemblyInfo.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.TagHelpers.input.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.TagHelpers.output.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorCoreGenerate.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_LayoutCI.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Create.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Default.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Delete.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Details.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Edit.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Students\Index.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Create.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Default.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Delete.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Details.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Edit.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\Teachers\Index.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorTargetAssemblyInfo.cache
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.RazorTargetAssemblyInfo.cs
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.Views.pdb
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.dll
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UniWebWebApp.pdb
+C:\Will\Cursos\AIS\Semester 1\Soft806 Continuous Integration-Deployment\Assignment\Assignment1WilliamMartin\Code\WIS_Web\Uni_Wis\UnivWebApp\obj\Release\netcoreapp2.2\UnivWebApp.csproj.CopyComplete
