@@ -1,0 +1,22 @@
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2 AS base
+RUN MKDIR WebApp
+WORKDIR /app/WebApp/
+EXPOSE 80
+EXPOSE 443
+
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS publish
+
+
+COPY Web/src/*.csproj /app/WebApp/
+
+WORKDIR /app/WebApp/
+RUN dotnet restore 
+
+COPY Web/src/. .
+RUN MKDIR out
+RUN dotnet publish  -c Release -o /app/WebApp/out
+
+FROM base AS final
+WORKDIR /app/WebApp/out
+COPY --from=publish /app/WebApp/out .
+ENTRYPOINT ["dotnet", "UniWebWebApp.dll"]

@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  
+  development.login:
+    build: .
+    ports:
+      - "8308:80"
+    environment: 
+      - ASPNETCORE_ENVIRONMENT=Development 
+  production.login:
+    build: .
+    ports:
+      - "8311:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production

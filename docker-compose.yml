@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  
+  dev.web:
+    build: 
+      context: .
+      dockerfile: Dockerfile_Web
+    ports:
+      - "8310:80"
+    environment: 
+      - ASPNETCORE_ENVIRONMENT=Development 
+  dev.login:
+    build: 
+      context: .
+      dockerfile: Dockerfile_Log
+    ports:
+      - "8311:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+  dev.register:
+    build: 
+      context: .
+      dockerfile: Dockerfile_Reg
+    ports:
+      - "8312:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development

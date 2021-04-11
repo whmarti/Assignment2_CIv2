@@ -1,0 +1,22 @@
+FROM mcr.microsoft.com/dotnet/core/aspnet:2.2 AS base
+RUN MKDIR RegisterApp
+WORKDIR /app/RegisterApp/
+EXPOSE 80
+EXPOSE 443
+
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS publish
+
+
+COPY *.csproj /app/RegisterApp/
+
+WORKDIR /app/RegisterApp/
+RUN dotnet restore 
+
+COPY . .
+RUN MKDIR out
+RUN dotnet publish  -c Release -o /app/RegisterApp/out
+
+FROM base AS final
+WORKDIR /app/RegisterApp/out
+COPY --from=publish /app/RegisterApp/out .
+ENTRYPOINT ["dotnet", "RegisterWebApp.dll"]

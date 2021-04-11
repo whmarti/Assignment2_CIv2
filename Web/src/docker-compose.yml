@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  
+  development.web:
+    build: .
+    ports:
+      - "8309:80"
+    environment: 
+      - ASPNETCORE_ENVIRONMENT=Development 
+  production.web:
+    build: .
+    ports:
+      - "8310:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
