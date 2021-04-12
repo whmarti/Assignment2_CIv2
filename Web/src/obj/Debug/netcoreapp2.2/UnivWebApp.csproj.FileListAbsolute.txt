@@ -48,7 +48,6 @@ C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\bin\Debug\netcoreapp2.2\UniWebWebApp.
 C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\bin\Debug\netcoreapp2.2\UniWebWebApp.pdb
 C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\bin\Debug\netcoreapp2.2\UniWebWebApp.Views.dll
 C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\bin\Debug\netcoreapp2.2\UniWebWebApp.Views.pdb
-C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\obj\Debug\netcoreapp2.2\UnivWebApp.csprojAssemblyReference.cache
 C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\obj\Debug\netcoreapp2.2\UnivWebApp.csproj.CoreCompileInputs.cache
 C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\obj\Debug\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cache
 C:\Temp\WIS_Web_Final\WIS_Solution\Web\src\obj\Debug\netcoreapp2.2\UnivWebApp.RazorAssemblyInfo.cs
